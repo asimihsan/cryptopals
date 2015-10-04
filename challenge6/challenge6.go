@@ -1,5 +1,8 @@
 package main
 
+// cd challenge6
+// go run $GOPATH/src/github.com/asimihsan/cryptopals/challenge6/challenge6.go
+
 import (
 	"encoding/base64"
 	"errors"
